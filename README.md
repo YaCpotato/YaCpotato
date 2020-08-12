@@ -1,7 +1,7 @@
 ### Hi there, I'm Shoichi Yashiro 👋
 
 ## I'm a Data architect, analyst!
-- I’m currently working on a [Members Co.,Ltd. Data adventure company][https://www.dataadventure.co.jp/]!
+- I’m currently working on a [Members Co.,Ltd. Data adventure company](https://www.dataadventure.co.jp/)!
 - I’m currently learning everything 🤣
 - I’m looking to collaborate with other analysts, engineers!
 - 2020 Goals: Create a own data visualization Frameworks!
