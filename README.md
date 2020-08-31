@@ -1,4 +1,5 @@
 ### Hi there, I'm Shoichi Yashiro 👋
+![Yasshi's github stats](https://github-readme-stats.vercel.app/api?username=YaCpotato&theme=algolia&show_icons=true)
 
 ## I'm a Data architect, analyst!
 - I’m currently working on a [Members Co.,Ltd. Data adventure company](https://www.dataadventure.co.jp/)!
