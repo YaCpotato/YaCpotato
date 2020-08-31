@@ -1,7 +1,7 @@
 ### Hi there, I'm Shoichi Yashiro 👋
 ![Yasshi's github stats](https://github-readme-stats.vercel.app/api?username=YaCpotato&theme=algolia&show_icons=true)
 
-## I'm a Data architect, analyst!
+## I'm a Data architect!
 - I’m currently working on a [Members Co.,Ltd. Data adventure company](https://www.dataadventure.co.jp/)!
 - I’m currently learning everything 🤣
 - I’m looking to collaborate with other analysts, engineers!
@@ -12,10 +12,7 @@
 
 ### Comming soon Events! Let's learn with us! 
 
-at 2020.8.31  
-https://dataadventure.connpass.com/event/185015/  
-
-at the end of Sep.  
+at the 2020.9.25.  
 https://dataadventure.connpass.com/event/185016/  
 
 ### We are recruiting Lightning talker!(5minutes ~ 10minutes)
