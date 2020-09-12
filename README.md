@@ -8,18 +8,6 @@
 - 2020 Goals: Create a own data visualization Frameworks!
 - Fun fact: I love to draw and play guitar / bass
 
-## Also I'm a Eventer!
-
-### Comming soon Events! Let's learn with us! 
-
-at the 2020.9.25.  
-https://dataadventure.connpass.com/event/185016/  
-
-### We are recruiting Lightning talker!(5minutes ~ 10minutes)
-#### Requirement
-- talk in Japanese
-- involved in Data Science(Machine Learning,Data Engineering,Analysis)
-
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
