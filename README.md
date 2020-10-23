@@ -3,11 +3,12 @@
 
 ## I'm a Data architect!
 - I’m currently working on a [Members Co.,Ltd. Data adventure company](https://www.dataadventure.co.jp/)!
-- I’m currently learning everything 🤣
 - I’m looking to collaborate with other analysts, engineers!
-- 2020 Goals: Create a own data visualization Frameworks!
 - Fun fact: I love to draw and play guitar / bass
-
+### Scheduled events as Speaker
+- In Oct.30, Members data(owned event) https://dataadventure.connpass.com/event/190232/
+- In Nov.14, GCPUG Shonan https://gcpug-shonan.connpass.com/event/192576/
+- In Nov.20, はんなりPython #34 python3.9を語る LT会 https://hannari-python.connpass.com/event/191566/
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -78,4 +79,4 @@
 ---
 
 [website]: https://yasshi-lab.tech/
-[twitter]: https://twitter.com/yasshi_dayooon
+[twitter]: https://twitter.com/yassh_i
