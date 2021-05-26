@@ -79,5 +79,4 @@
 
 ---
 
-[website]: https://yasshi-lab.tech/
 [twitter]: https://twitter.com/yassh_i
