@@ -8,8 +8,7 @@
 - I’m looking to collaborate with other analysts, engineers!
 - Fun fact: I love to draw and play guitar / bass
 ### Scheduled events as Speaker
-- In Nov.14, GCPUG Shonan https://gcpug-shonan.connpass.com/event/192576/
-- In Nov.20, はんなりPython #34 python3.9を語る LT会 https://hannari-python.connpass.com/event/191566/
+
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
