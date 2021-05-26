@@ -3,7 +3,7 @@
 
 [Check out my zenn!](https://zenn.dev/yassh_i)
 
-## I'm a Data architect!
+## Maybe Data Engineer!
 - I’m currently working on a [Members Co.,Ltd. Data adventure company](https://www.dataadventure.co.jp/)!
 - I’m looking to collaborate with other analysts, engineers!
 - Fun fact: I love to draw and play guitar / bass
