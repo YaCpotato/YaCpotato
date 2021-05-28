@@ -2,11 +2,12 @@
 ![Yasshi's github stats](https://github-readme-stats.vercel.app/api?username=YaCpotato&theme=algolia&show_icons=true)
 
 [Check out my zenn!](https://zenn.dev/yassh_i)
+[gituhb pages](https://yacpotato.github.io)
 
 ## Maybe Data Engineer!
 - I’m currently working on a [Members Co.,Ltd. Data adventure company](https://www.dataadventure.co.jp/)!
 - I’m looking to collaborate with other analysts, engineers!
-- Fun fact: I love to draw and play guitar / bass
+- Fun fact: I love to play guitar / bass
 ### Scheduled events as Speaker
 
 ### Connect with me:
