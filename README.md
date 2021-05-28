@@ -2,6 +2,8 @@
 ![Yasshi's github stats](https://github-readme-stats.vercel.app/api?username=YaCpotato&theme=algolia&show_icons=true)
 
 [Check out my zenn!](https://zenn.dev/yassh_i)
+
+
 [gituhb pages](https://yacpotato.github.io)
 
 ## Maybe Data Engineer!
