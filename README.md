@@ -6,11 +6,8 @@
 
 [gituhb pages](https://yacpotato.github.io)
 
-## Maybe Data Engineer!
-- I’m currently working on a [Members Co.,Ltd. Data adventure company](https://www.dataadventure.co.jp/)!
-- I’m looking to collaborate with other analysts, engineers!
-- Fun fact: I love to play guitar / bass
-### Scheduled events as Speaker
+## Web Engineer!
+- I’m currently working on a [Imejin](https://imejin.co.jp/)!
 
 ### Connect with me:
 
@@ -81,4 +78,4 @@
 
 ---
 
-[twitter]: https://twitter.com/yassh_i
+[twitter]: https://twitter.com/Yasshieeee
