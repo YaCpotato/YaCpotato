@@ -3,12 +3,6 @@
 
 [Check out my zenn!](https://zenn.dev/yassh_i)
 
-
-[gituhb pages](https://yacpotato.github.io)
-
-## Web Engineer!
-- I’m currently working on a [Imejin](https://imejin.co.jp/)!
-
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
